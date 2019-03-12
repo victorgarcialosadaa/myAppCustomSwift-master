@@ -19,6 +19,7 @@
 		FA15E39F22204D7B0059DC22 /* dogBreed.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA15E39E22204D7B0059DC22 /* dogBreed.swift */; };
 		FA40C123222BF1FE00989499 /* FavouritesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA40C122222BF1FE00989499 /* FavouritesController.swift */; };
 		FA4CE3432238059F00D9A455 /* dogsBreeds.csv in Resources */ = {isa = PBXBuildFile; fileRef = FA4CE3422238059F00D9A455 /* dogsBreeds.csv */; };
+		FA4CE345223819AC00D9A455 /* myAppCustomSwift-master in Resources */ = {isa = PBXBuildFile; fileRef = FA4CE344223819AC00D9A455 /* myAppCustomSwift-master */; };
 		FA51CC1A2233E1EE006916B6 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA51CC192233E1EE006916B6 /* DetailView.swift */; };
 		FA5D31502222CBAB00E5E684 /* SearchBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5D314F2222CBAB00E5E684 /* SearchBarController.swift */; };
 		FA947044222495B1002CCCAE /* AboutUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA947043222495B1002CCCAE /* AboutUs.swift */; };
@@ -64,6 +65,7 @@
 		FA15E39E22204D7B0059DC22 /* dogBreed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dogBreed.swift; sourceTree = "<group>"; };
 		FA40C122222BF1FE00989499 /* FavouritesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouritesController.swift; sourceTree = "<group>"; };
 		FA4CE3422238059F00D9A455 /* dogsBreeds.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dogsBreeds.csv; sourceTree = "<group>"; };
+		FA4CE344223819AC00D9A455 /* myAppCustomSwift-master */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "myAppCustomSwift-master"; sourceTree = "<group>"; };
 		FA51CC192233E1EE006916B6 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		FA5D314F2222CBAB00E5E684 /* SearchBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarController.swift; sourceTree = "<group>"; };
 		FA947043222495B1002CCCAE /* AboutUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUs.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 		FA15E359222041FA0059DC22 = {
 			isa = PBXGroup;
 			children = (
+				FA4CE344223819AC00D9A455 /* myAppCustomSwift-master */,
 				FAE6E2502220721A0079C900 /* Tools */,
 				FA15E364222041FA0059DC22 /* myAppCustom */,
 				FA15E379222041FC0059DC22 /* myAppCustomTests */,
@@ -290,6 +293,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA15E370222041FB0059DC22 /* LaunchScreen.storyboard in Resources */,
+				FA4CE345223819AC00D9A455 /* myAppCustomSwift-master in Resources */,
 				FA15E36D222041FB0059DC22 /* Assets.xcassets in Resources */,
 				FA4CE3432238059F00D9A455 /* dogsBreeds.csv in Resources */,
 				FA15E36B222041FA0059DC22 /* Main.storyboard in Resources */,
